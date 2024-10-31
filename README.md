@@ -7,7 +7,6 @@ To run this project, you need to have Node.js and npm installed on your machine.
 Installation
 Clone the repository:
 
-e
 git clone https://github.com/denny254/NodeJS-AUTH_endpoints.git
 cd NodeJS-AUTH_endpoints
 Install dependencies:
